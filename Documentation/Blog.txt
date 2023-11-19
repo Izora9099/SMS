@@ -1,0 +1,16 @@
+Hey. My name is Izora Quinn.
+I'm working on a project to build a working School management system(SMS).
+I'm a software engineer aspirant and I'll follow the SDLC to make the project a reality
+
+The SDLC has 7 phases which are...
+-> Ideation
+-> Requirements
+-> Design
+-> Implementation/ Development
+-> Testing
+-> Deployment
+-> Maintenance
+
+The repository will contain text files highlighting my progress. Once the design is completed, then i can reach out
+to my peers to help me 
+I'll also be needing the sufficient standards to ensure the software quality

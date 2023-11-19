@@ -1,0 +1,32 @@
+This text file will encompass the ideation phase
+
+The ideation phase is the first stage of the Software Development Life Cycle (SDLC) ¹. 
+It is the stage where the development team identifies the problem that the software will solve and
+comes up with a plan to solve it.
+ 
+ => The problem here is the insufficiency of the current SMS systems i have used are too limited in their functionalities
+    and unreliable. There's a problem with the scaling, there's a complete absence in some schools. I want to create one that
+    is integral to the lives of students and an indispensible tool using the most up to date software for student ai like the 
+    google workspace suite, ai features and as much more facilities as possible. keeping in mind that Rome wasn't built in a day
+    some basic facilities will have to be the starting point.
+ 
+The ideation phase is crucial because it sets the foundation for 
+the entire software development process. During this phase, the team conducts research, identifies
+the target audience, and determines the feasibility of the project ¹². 
+
+ => The target audience is obviously the students/teachers, the project is very feasible and the research on the Requirements
+    will be presented in the requirement phase
+
+
+The significance of the ideation phase lies in its ability
+to ensure that the software development process is aligned with the needs of the target audience
+and the goals of the organization ¹. It helps the team to identify potential risks and challenges that may 
+arise during the development process and come up with strategies to mitigate them ¹. By conducting thorough
+research and analysis during the ideation phase, the team can ensure that the software meets the needs of 
+the target audience and is delivered on time and within budget ¹.
+
+
+Source: Conversation with Bing, 11/19/2023
+(1) The Software Development Life Cycle (SDLC): 7 Phases and 5 Models. https://theproductmanager.com/topics/software-development-life-cycle/.
+(2) The 5 Stages of the Agile Software Development Lifecycle - Mendix. https://www.mendix.com/blog/agile-software-development-lifecycle-stages/.
+(3) Activity 1 - Initiation | Software Development Life Cycle (SDLC). https://sdlc.uconn.edu/activity-1-initiation/.
