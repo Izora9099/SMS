@@ -26,6 +26,10 @@ research and analysis during the ideation phase, the team can ensure that the so
 the target audience and is delivered on time and within budget ¹.
 
 
+    The name for the SMS is 
+        Scholarly. The slogan is Education, closer than ever!
+
+
 Source: Conversation with Bing, 11/19/2023
 (1) The Software Development Life Cycle (SDLC): 7 Phases and 5 Models. https://theproductmanager.com/topics/software-development-life-cycle/.
 (2) The 5 Stages of the Agile Software Development Lifecycle - Mendix. https://www.mendix.com/blog/agile-software-development-lifecycle-stages/.
