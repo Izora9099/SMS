@@ -1,2 +1,8 @@
 The platform is supposed to serve as a link between students and teachers which also incorporates other 
 aspects of the teacher-student learning process
+
+
+This document will incoporate the class diagrams, sequence diagrams, activity diagrams as well as the functional and non
+functional Requirements
+the standards for quality software have to followed at some point as well
+ the requirements will take time to fully draft and work on since i'm still doing my research
